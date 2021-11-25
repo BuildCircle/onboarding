@@ -6,6 +6,6 @@ We have a setup guides for installing reccomended software you will likley need 
 
 ## Ceremonies
 
-## Booking Time off
+## Booking time off
 
 ## Expenses
