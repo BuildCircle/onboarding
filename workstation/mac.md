@@ -88,6 +88,39 @@ Docker is a way to make packaging and sharing code much easier due to the use of
 brew install docker
 ```
 
+## Github CLI
+In this section, we will use GitHub CLI to interact with GitHub directly from the terminal.
+
+In order to login, paste the following in your terminal:
+```
+gh auth login -s 'user:email' -w
+```
+Copy the one-time code displayed in your terminal, then press ENTER.
+
+Your browser will open and ask you to authorize GitHub CLI to use your GitHub account. Accept and wait a bit. Come back to the terminal and press ENTER again.
+
+To check that you are properly connected, type:
+```
+gh auth status
+```
+
+## SSH Key
+We need to generate SSH keys which are going to be used by GitHub to authenticate you.
+
+Use the [following guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) to generate an ssh key locally and store it to your ssh-agent. Please note, if you will be working with RTGS, it's worth generating an rsa key instead of an ed25519 key. This is because the RTGS portal uses rsa, making it easier to switch between RTGS and personal projects.
+
+In practice, this only means running a few commands differently. The most important is the first command listed on the page, where you **should run**
+```
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+```
+**Instead of** 
+```
+ssh-keygen -t ed25519 -C "your_email@example.com"
+```
+Otherwise, the only difference is to change any reference of `ed25519` to `rsa`. For example, `IdentityFile ~/.ssh/id_ed25519` is instead `IdentityFile ~/.ssh/id_rsa`
+
+After following the above guide until the end of the "Adding your SSH key to the ssh-agent" section, use the [following guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) to connect the ssh key to your github. 
+
 # Optional extras
 These are things you don't need to install/change, but may be of use.
 
