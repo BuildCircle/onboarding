@@ -1,6 +1,6 @@
 
 # Setup instructions
-Welcome! Below you will find setup instructions to get your computer up and running for Build Circle. The guide has been written for Mac users, so please double check each step if running on a different operating system. 
+Welcome! Below you will find setup instructions to get your computer up and running for Build Circle.
 
 If you find any errors or additional info that’s needed, please jot it down and let us know, so we can make the guide as comprehensive as possible. Let’s jump in.
 
