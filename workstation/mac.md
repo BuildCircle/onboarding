@@ -1,4 +1,3 @@
-
 # Setup instructions
 Welcome! Below you will find setup instructions to get your computer up and running for Build Circle.
 
@@ -12,13 +11,6 @@ Slack is a way for teams to communicate, and the primary method of communication
 ), and use the link from said invitation to join the channel.
 
 It’s worth setting up notifications for every message from the internal channel, as that’s where you’ll see most of the important information on what’s happening at Build Circle.
-
-## MS Teams
-MS Teams is what you’ll use to interact with anyone in RTGS, and what we use for group calls on RTGS projects. MS Teams will be linked with your RTGS outlook account (the account is provided by buildcircle - no need to create your own outlook email). [You can download teams here](https://www.microsoft.com/en-gb/microsoft-teams/download-app
-).
-
-Given you now have two emails (RTGS/Build Circle) - it can be helpful to consolidate your two calendars so you can see all your events/meetings etc. in one calendar. [The guide linked here can help you do this](https://www.alphr.com/sync-outlook-calendar-google-calendar/
-).
 
 ## Brew
 Homebrew is a package manager, software used to easily install other software from the command line. Run the following in your terminal:
