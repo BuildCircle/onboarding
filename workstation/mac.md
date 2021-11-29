@@ -75,6 +75,13 @@ nvm use <version number you want to switch to>
 ## .NET 5 SDK
 .NET is what you will use for C# development. [Download the latest version here](https://dotnet.microsoft.com/download/dotnet/5.0).
 
+## Xcode
+Xcode is a command line tool developed by Apple. Xcode is used for a number of purposes, but we're primarily downloading it to install source code for C#. Run the following:
+```
+xcode-select --install
+```
+After you accept the install, it will take some time to download. Carry on with the rest of the guide whilst this is happening.
+
 ## Docker
 Docker is a way to make packaging and sharing code much easier due to the use of containers, meaning docker handles the installation of the correct config to run an app. You don’t need to know exactly how it works, but feel free to [read up more](https://www.zdnet.com/article/what-is-docker-and-why-is-it-so-darn-popular/). Run the following in your terminal:
 ```
