@@ -9,3 +9,6 @@ We have a setup guides for installing reccomended software you will likley need 
 ## Booking time off
 
 ## Expenses
+
+## Project time tracking
+
