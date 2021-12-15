@@ -22,10 +22,6 @@ Jetbrains offers a range of IDEs for different languages, each of which you choo
 	• Rider -> used for .NET development
 	• WebStorm -> used for web development
 
-## Visual Studio Community Edition
-
-Visual Studio is the primary IDE for .NET development and is developed and maintained by Microsoft.  The community edition is the full featured free version.    [Download the latest version here](https://visualstudio.microsoft.com/vs/community/).
-
 ## .NET 6 SDK
 .NET is what you will use for C# development.  [Download the latest version here](https://dotnet.microsoft.com/en-us/download).
 
@@ -95,3 +91,15 @@ After following the above guide until the end of the "Adding your SSH key to the
 ## Postman
 
 Great tool to execute HTTP Requests. [Download for Windows here](https://www.postman.com/downloads/)
+
+## Chocolatey
+
+Package Manager for windows. [Download for Windows here](https://chocolatey.org/install)
+
+## Windows Subsystem for Linux
+
+Install Ubuntu terminal environment in Windows [Download for Windows here](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab).
+
+## Winget
+
+The winget command line tool enables users to discover, install, upgrade, remove and configure applications on Windows 10 and Windows 11 computers. (More information here)[https://docs.microsoft.com/en-us/windows/package-manager/winget/]
