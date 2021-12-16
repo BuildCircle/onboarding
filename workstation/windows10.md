@@ -54,6 +54,11 @@ Docker is a way to make packaging and sharing code much easier due to the use of
 
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. [Download for Windows](https://git-scm.com/download/win)
 
+There are some windows specific Git warnings that you might see which you should be aware of
+
+- windows filenames are case insensitive
+- windows directories have a 260 character limit
+
 ## Github CLI
 In this section, we will use GitHub CLI to interact with GitHub directly from the terminal.  [Download MSI installer for Windows](https://git-scm.com/download/win)
 
@@ -69,22 +74,10 @@ To check that you are properly connected, type:
 ```
 gh auth status
 ```
-## SSH Key
-We need to generate SSH keys which are going to be used by GitHub to authenticate you.
 
-Use the [following guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) to generate an ssh key locally and store it to your ssh-agent. Please note, if you will be working with RTGS, it's worth generating an rsa key instead of an ed25519 key. This is because the RTGS portal uses rsa, making it easier to switch between RTGS and personal projects.
+## Authentication to Github via Personal Access Token (PAT)
 
-In practice, this only means running a few commands differently. The most important is the first command listed on the page, where you **should run**
-```
-ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
-```
-**Instead of** 
-```
-ssh-keygen -t ed25519 -C "your_email@example.com"
-```
-Otherwise, the only difference is to change any reference of `ed25519` to `rsa`. For example, `IdentityFile ~/.ssh/id_ed25519` is instead `IdentityFile ~/.ssh/id_rsa`
-
-After following the above guide until the end of the "Adding your SSH key to the ssh-agent" section, use the [following guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) to connect the ssh key to your github.
+If you would like to authenticate to GitHub via creating a PAT (follow this guide)[https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token]
 
 ## Optional Extras
 
