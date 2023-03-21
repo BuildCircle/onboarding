@@ -4,7 +4,7 @@ Welcome! Below you will find setup instructions to get your computer up and runn
 If you find any errors or additional info that’s needed, please jot it down and let us know, so we can make the guide as comprehensive as possible. Let’s jump in.
 
 ## Google Chrome (Or similar browsers, Edge/Brave etc.) + Lastpass extension
-Whatever your preferred browser is, make sure to download and set it as your default browser. The only additional piece of setup for this is to add [lastpass as an extension](https://lastpass.com/misc_download2.php).
+Whatever your preferred browser is, make sure to download and set it as your default browser. The only additional piece of setup for this is to add [lastpass as an extension](https://lastpass.com/misc_download2.php) (if you prefer another password manager feel free to use that instead).
 
 ## Slack
 Slack is a way for teams to communicate, and the primary method of communication within Build Circle. You should have been sent an invitation to join the Build Circle Slack channel. [Download slack](https://slack.com/intl/en-gb/help/articles/207677868-Download-Slack-for-Mac
@@ -107,17 +107,7 @@ gh auth status
 ## SSH Key
 We need to generate SSH keys which are going to be used by GitHub to authenticate you.
 
-Use the [following guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) to generate an ssh key locally and store it to your ssh-agent. Please note, if you will be working with RTGS, it's worth generating an rsa key instead of an ed25519 key. This is because the RTGS portal uses rsa, making it easier to switch between RTGS and personal projects.
-
-In practice, this only means running a few commands differently. The most important is the first command listed on the page, where you **should run**
-```
-ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
-```
-**Instead of** 
-```
-ssh-keygen -t ed25519 -C "your_email@example.com"
-```
-Otherwise, the only difference is to change any reference of `ed25519` to `rsa`. For example, `IdentityFile ~/.ssh/id_ed25519` is instead `IdentityFile ~/.ssh/id_rsa`
+Use the [following guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) to generate an ssh key locally and store it to your ssh-agent. 
 
 After following the above guide until the end of the "Adding your SSH key to the ssh-agent" section, use the [following guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) to connect the ssh key to your github. 
 
