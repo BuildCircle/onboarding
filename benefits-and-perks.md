@@ -27,5 +27,5 @@ Some of these services are opt in, contact [stephen.clerkin@arrowsgroup.com](mai
 We are a remote first company meaning that by default we work form home, we will sometimes be required to work form a clients office if a project requires it. Some office time may also be made mandatory while on the bench. 
 
 ## Working from abroad
-One of the best parts of working at Build Circle is being able to work from anywhere for up to 4 weeks as long as you can you make core UK meeting hours between 10am and 4pm and have a reliable internet connection
+One of the best parts of working at Build Circle is being able to work from anywhere for up to 3 weeks as long as you can you make core UK meeting hours between 10am and 4pm and have a reliable internet connection
 
