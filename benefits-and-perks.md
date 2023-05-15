@@ -2,7 +2,15 @@
 
 ### Budgets
 You have a budget for online training, reading materials and office equipment you may need at home. 
-* £500 for home office per year, only selected items from this list are allowed
+* £500 for home office, only selected items from the list are allowed
+  * [Desk](https://www.amazon.co.uk/IBUYKE-Computer-Writing-Headphone-Assemble/dp/B08MWBGHJF/ref=sr_1_2_sspa?dchild=1&keywords=desk&qid=1615201430&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUEVUVTlPMlk5VVBBJmVuY3J5cHRlZElkPUEwMzQxODM3MVJBSk9QS1YxWUtOUyZlbmNyeXB0ZWRBZElkPUEwNjc4MTQ2MjFINDA2SVVQWDFXRCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+  * [Chair](https://www.amazon.co.uk/poptoy-Curved-Executive-Computer-Adjustable/dp/B079GLTJTY/ref=sr_1_5?crid=2H0UGW89G948F&dchild=1&keywords=desk+chair&qid=1615201469&sprefix=desk%2Caps%2C184&sr=8-5)
+  * [Monitor](https://www.amazon.co.uk/Dell-SE2416H-Full-LED-Monitor/dp/B015P6O1US/ref=sr_1_3?crid=1JHVXYZH5IPY6&dchild=1&keywords=monitor&qid=1615201483&sprefix=mon%2Caps%2C157&sr=8-3)
+  * [Headset](https://www.amazon.co.uk/Headset-Microphone-Adjustable-Canceling-Earphone/dp/B087D5DHXN/ref=sr_1_5?dchild=1&keywords=headset+usb&qid=1615201586&sr=8-5)
+  * [Hdmi cable](https://www.amazon.co.uk/AmazonBasics-High-Speed-Ultra-HDMI-Cable/dp/B014I8SIJY/ref=sr_1_1_sspa?crid=VC7HFW4E97RK&dchild=1&keywords=hdmi+cable&qid=1615201602&sprefix=hdmi+%2Caps%2C163&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEySzdDTUJTNFFNU0dBJmVuY3J5cHRlZElkPUEwNTY1MDQwMU8zQUJQT01aVVg5SCZlbmNyeXB0ZWRBZElkPUEwOTczMDQ2MU5FV0VWQzBRWTZMUSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+  * [Laptop Stand](https://www.amazon.co.uk/StillCool-Multi-Angle-Adjustable-Anti-Slip-Ventilated/dp/B08KR99LMR/ref=sr_1_27?crid=2GRJJ9GS2BU7M&dchild=1&keywords=laptop+stand&qid=1615201630&sprefix=laptop+sta%2Caps%2C159&sr=8-27)
+  * [Keyboard and mouse wireless]()
+  * [Keyboard and mouse wired](https://www.amazon.co.uk/CiT-USB-Keyboard-Mouse-Combo/dp/B00647IDCU/ref=sr_1_4?crid=S3P19KWYWMC4&dchild=1&keywords=keyboard+and+mouse&qid=1615201507&sprefix=key%2Caps%2C221&sr=8-4)
 * £250 for reading and training per year, you must purchase there items yourself, keep the recipt and claim them as an expense in FreeAgent 
 ### Finance
 We have two providers for employee financial services, access to these are usually setup upon starting at Build Circle. if you do not have acess contact [stephen.clerkin@arrowsgroup.com](mailto:stephen.clerkin@arrowsgroup.com)
