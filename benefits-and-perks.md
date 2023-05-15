@@ -13,11 +13,11 @@ You have a budget for online training, reading materials and office equipment yo
   * [Keyboard and mouse wired](https://www.amazon.co.uk/CiT-USB-Keyboard-Mouse-Combo/dp/B00647IDCU/ref=sr_1_4?crid=S3P19KWYWMC4&dchild=1&keywords=keyboard+and+mouse&qid=1615201507&sprefix=key%2Caps%2C221&sr=8-4)
 * £250 for reading and training per year, you must purchase there items yourself, keep the recipt and claim them as an expense in FreeAgent 
 ### Finance
-We have two providers for employee financial services, access to these are usually setup upon starting at Build Circle. if you do not have acess contact [stephen.clerkin@arrowsgroup.com](mailto:stephen.clerkin@buildcircle.co.uk)
+We have two providers for employee financial services, access to these are usually setup upon starting at Build Circle. if you do not have acess contact [stephen.clerkin@buildcircle.co.uk](mailto:stephen.clerkin@buildcircle.co.uk)
 * Maji personal finance assistant, [login here](https://portal.maji.io/accounts)
 * Nest pension, [login here](https://www.nestpensions.org.uk/schemeweb/NestWeb/faces/public/MUA/pages/loginPage.xhtml)
 ### Health
-Some of these services are opt in, contact [stephen.clerkin@arrowsgroup.com](mailto:stephen.clerkin@buildcircle.co.uk) for more information
+Some of these services are opt in, contact [stephen.clerkin@buildcircle.co.uk](mailto:stephen.clerkin@buildcircle.co.uk) for more information
 * Subsidised Gym memberships via Better Gym, [website here](https://www.better.org.uk/#)
 * Health Assured (My Healthy Advantage app) [website here](https://www.healthassured.org/) Use the app to signup, the unique code should be avaialble on request
 * Vitality health insurance (minimum 2 years service), [login here](https://www.vitality.co.uk/)
