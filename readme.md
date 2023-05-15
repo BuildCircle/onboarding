@@ -30,5 +30,5 @@ Once this is confirmed, book in holiday with the [form linked here](https://docs
 ## Sick leave
 In the unfortunate circumstances that you’re sick, make sure to inform Chris as soon as you can. Any sick days will again need to be added to the timesheet, selecting the project as Build Circle Internal, and the task as Sickness.
 
-## Expenses
-You have a £250 budget that goes towards any office equipment you’ll need at home. If you need any equipment, purchase the item(s) yourself, making sure to get a receipt. You will then need to create an expense, by going to FreeAgent, and navigating to My Money > Expenses > Add new expense. Fill in the information as required, making sure to upload the receipt. When the expense is approved, a refund will be given near your payday. 
+## Benifits & Pearks
+You can about these [here](https://github.com/BuildCircle/onboarding/blob/main/benefits-and-perks.md)
