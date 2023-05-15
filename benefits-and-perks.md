@@ -10,7 +10,7 @@ We have two providers for employee financial services, access to these are usual
 * Nest pension, [login here](https://www.nestpensions.org.uk/schemeweb/NestWeb/faces/public/MUA/pages/loginPage.xhtml)
 ### Health
 Some of these services are opt in, contact [stephen.clerkin@arrowsgroup.com](mailto:stephen.clerkin@arrowsgroup.com) for more information
-* Subsidised Gym memberships via
+* Subsidised Gym memberships via Better Gym, [website here](https://www.better.org.uk/#)
 * Health Assured (My Healthy Advantage app) [website here](https://www.healthassured.org/) Use the app to signup, the unique code should be avaialble on request
 * Vitality health insurance (minimum 2 years service), [login here](https://www.vitality.co.uk/)
 * Cycle to work scheme
