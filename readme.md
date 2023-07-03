@@ -25,7 +25,7 @@ To fill in your timesheet, go to FreeAgent and navigate to Work > Time Tracking 
 
 You are entitled to 28 days of holiday per year (Jan 1 - Dec 31), plus bank holidays. Before booking a holiday in the system, check in with Chris to make sure that you’re not needed on those days (book in early to be safe!). 
 
-Once this is confirmed, book in holiday with the [form linked here](https://docs.google.com/forms/d/e/1FAIpQLSfdFZCza4BVMsISbt7Zt0JPAucvr27s7rk52vFu9e0e361R7A/viewform?vc=0&c=0&w=1&flr=0). Your holiday days will also need to be added to your timesheet, in the same format as you filled in the timesheet above - selecting the project as Build Circle Internal, and the task as Holiday. On your Build Circle calendar, you should mark the days you'll be off, and make sure to remind your team the week before you go away!
+Once this is confirmed, book in holiday with the [calendar linked here](https://calendar.google.com/calendar/u/0?cid=Y19jbG9pa2o2NTNiNnFtN3FhNWsxc3Ntb2ZhMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Your holiday days will also need to be added to your timesheet, in the same format as you filled in the timesheet above - selecting the project as Build Circle Internal, and the task as Holiday. Make sure to remind your team the week before you go away!
 
 ## Sick leave
 In the unfortunate circumstances that you’re sick, make sure to inform Chris as soon as you can. Any sick days will again need to be added to the timesheet, selecting the project as Build Circle Internal, and the task as Sickness.
