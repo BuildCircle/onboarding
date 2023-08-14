@@ -3,8 +3,8 @@ Welcome! Below you will find setup instructions to get your computer up and runn
 
 If you find any errors or additional info that’s needed, please jot it down and let us know, so we can make the guide as comprehensive as possible. Let’s jump in.
 
-## Google Chrome (Or similar browsers, Edge/Brave etc.) + Lastpass extension
-Whatever your preferred browser is, make sure to download and set it as your default browser. The only additional piece of setup for this is to add [lastpass as an extension](https://lastpass.com/misc_download2.php) (if you prefer another password manager feel free to use that instead).
+## Google Chrome (Or similar browsers, Edge/Brave etc.) + 1Password extension
+Whatever your preferred browser is, make sure to download and set it as your default password manager. [Download](https://1password.com/downloads/mac/)
 
 ## Slack
 Slack is a way for teams to communicate, and the primary method of communication within Build Circle. You should have been sent an invitation to join the Build Circle Slack channel. [Download slack](https://slack.com/intl/en-gb/help/articles/207677868-Download-Slack-for-Mac
