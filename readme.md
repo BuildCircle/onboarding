@@ -25,4 +25,4 @@ Once this is confirmed, book in holiday with the [time off calendar linked here]
 In the unfortunate circumstances that you’re sick, make sure to inform your line manager as soon as you can. Any sick days will again need to be added to the timesheet, selecting the project as Build Circle Internal, and the task as Sickness.
 
 ## Benefits & Pearks
-You can about these [here](https://github.com/BuildCircle/onboarding/blob/main/benefits-and-perks.md)
+You can read about these [here](https://github.com/BuildCircle/onboarding/blob/main/benefits-and-perks.md)
