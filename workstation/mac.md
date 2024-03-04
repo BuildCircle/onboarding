@@ -159,6 +159,15 @@ Docker is a way to make packaging and sharing code much easier due to the use of
 
 This will provide everything docker has to offer: Containers, Volumes, Deamon, Image Repository
 
+## AWS CLI
+
+AWS CLI lets us control multiple AWS services from the command line and automate them through scripts.
+[read up more](https://docs.aws.amazon.com/cli/).
+
+[Download AWS CLI Desktop](https://aws.amazon.com/cli/)
+
+This will provide everything docker has to offer: Containers, Volumes, Deamon, Image Repository
+
 ## SSH Key
 
 We need to generate SSH keys which are going to be used by GitHub to authenticate you.

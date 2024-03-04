@@ -55,6 +55,15 @@ nvm use <version number you want to switch to>
 // switch to an installed version of node
 ```
 
+## AWS CLI
+
+AWS CLI lets us control multiple AWS services from the command line and automate them through scripts.
+[read up more](https://docs.aws.amazon.com/cli/).
+
+[Download AWS CLI Desktop](https://aws.amazon.com/cli/)
+
+This will provide everything docker has to offer: Containers, Volumes, Deamon, Image Repository
+
 ## Docker
 
 Docker is a way to make packaging and sharing code much easier due to the use of containers, meaning docker handles the installation of the correct config to run an app. You don’t need to know exactly how it works, but feel free to read up more.
